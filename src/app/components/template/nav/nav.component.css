@@ -1,0 +1,11 @@
+.container{
+    height: 87%;
+    background-color: rgb(95, 109, 122);
+}
+.sidenav{
+    background-color: rgb(181, 197, 212);
+}
+
+i {
+    padding-right: .6rem;
+}
